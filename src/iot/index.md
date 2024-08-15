@@ -22,7 +22,11 @@ features:
 ---
 
 <script setup>
+
+  
   console.log(1)
+
+
 </script>
 
 <el-carousel height="150px" style="marigin-top:12px;">
